@@ -37,7 +37,7 @@ Complete an end-to-end classification experiment. Explore and clean the data, se
 
 **Checkpoint 2 — Results review.** Show the main results of both models, together with a confusion matrix or several prediction examples when useful. Ask the user to review the results and wait for approval before generating the final report. Record actual feedback and actions in `checkpoints.md`.
 
-## 4. Generate the editable Word report
+## 4. Generate the report
 
 Create an editable English Word report (`report.doc`) from a copy of `assets/IN6227-Reports-Template.doc`. Keep the original template layout, formatting, headings, margins, and font style. The complete report should be two pages.
 
